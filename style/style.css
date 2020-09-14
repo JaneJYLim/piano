@@ -38,6 +38,13 @@ h1 {
     left: 233px;
     top: -120px;
 }
+
+.playing {
+    transform: scale(1.1);
+    border-color: #ffb9a3;
+    box-shadow: 0 0 .8rem #f5c17c;
+}
+
 .key kbd {
     width: 80px;
     color: #fff;
